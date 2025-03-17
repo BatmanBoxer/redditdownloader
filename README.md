@@ -1,6 +1,4 @@
- # Reddit Image Scraper Documentation
- 
- ## Overview
+ # Overview
  
  This Go program allows you to scrape and download images from a specified Reddit subreddit. It utilizes the Colly library for web scraping and makes the process faster and more efficient by using concurrency with goroutines.
  
